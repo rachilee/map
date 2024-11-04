@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://kh.google.com/:splat"
+  status = 200
