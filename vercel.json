@@ -1,5 +1,5 @@
 {
-  "name": "testgh",
+  "name": "map",
   "version": 2,
   "routes": [
     {"src": "/(.*)","dest": "https://kh.google.com/$1"}
